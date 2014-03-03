@@ -1,4 +1,0 @@
-erereraersampleRemoteRepo
-================
-
-Sample remote
